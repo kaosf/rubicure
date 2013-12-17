@@ -26,6 +26,8 @@ splash_star: &splash_star
   girls:
   - cure_bloom
   - cure_egret
+  - kiryu_michiru
+  - kiryu_kaoru
 futari_wa_pretty_cure_splash_star:
   <<: *splash_star
 

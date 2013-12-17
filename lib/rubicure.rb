@@ -39,3 +39,13 @@ module Milky
     Rubicure::Girl.find(:rose)
   end
 end
+
+module Kiryu
+  def self.michiru
+    Rubicure::Girl.find(:michiru)
+  end
+
+  def self.kaoru
+    Rubicure::Girl.find(:kaoru)
+  end
+end

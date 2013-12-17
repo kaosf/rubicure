@@ -65,6 +65,14 @@ bloom:
   <<: *cure_bloom
 egret:
   <<: *cure_egret
+kiryu_michiru: &kiryu_michiru
+  human_name: 霧生満
+kiryu_kaoru: &kiryu_kaoru
+  human_name: 霧生薫
+michiru:
+  <<: *kiryu_michiru
+kaoru:
+  <<: *kiryu_kaoru
 
 # yes
 cure_dream:  &cure_dream
